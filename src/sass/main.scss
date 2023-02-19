@@ -64,7 +64,7 @@ p {
   background-color: transparent;
 
   @media #{$small-and-down} {
-    background-color: lighten($primary-color, 25%);
+    background-color: color("pink", "darken-2");
     min-height: 280px;
 
     img {
@@ -111,7 +111,7 @@ footer.page-footer {
 
   .container .row {
     display: flex;
-    align-items: flex-end;
+    align-items: flex-start;
     flex-flow: row wrap;
     justify-content: space-between;
 
@@ -172,9 +172,11 @@ img {
 [style*="--aspect-ratio"] > :first-child {
   width: 100%;
 }
+
 [style*="--aspect-ratio"] > img {
   height: auto;
 }
+
 @supports (--custom:property) {
   [style*="--aspect-ratio"] {
     position: relative;
