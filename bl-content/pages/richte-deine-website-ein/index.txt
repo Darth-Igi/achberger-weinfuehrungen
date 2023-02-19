@@ -1,0 +1,1 @@
+<p>Passe die Einstellungen deiner Website im [Administrationsbereich](./admin) an. Unter [Einstellungen &gt; Allgemein](./admin/settings) kannst Du beispielsweise den Titel und die Beschreibung der Website ändern oder Links zu sozialen Netzwerken eingeben.</p>

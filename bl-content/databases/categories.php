@@ -1,0 +1,2 @@
+<?php defined('BLUDIT') or die('Bludit CMS.'); ?>
+{"tour":{"name":"Tour","template":"","description":"","list":["aktiv-dabei\/schlossherren-und-seewein","aktiv-dabei\/darf-ich-vorstellen-meine-heimat-einmalige-erlebnis-bust","orte-und-kultur\/barocke-juwelen-und-ihre-ehemaligen-bodensee-weing\u00fcter"]},"tour-type":{"name":"TourType","template":"","description":"","list":["aktiv-dabei","orte-und-kultur"]}}

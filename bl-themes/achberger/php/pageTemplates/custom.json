@@ -1,0 +1,42 @@
+{
+  "experiencePlace": {
+    "type": "string",
+    "label": "Erlebnisort(e)",
+    "tip": "Wo findet die Führung statt?"
+  },
+  "date": {
+    "type": "string",
+    "label": "Termine",
+    "tip": "Wann findet die Führung statt?"
+  },
+  "time": {
+    "type": "string",
+    "label": "Uhrzeit",
+    "tip": "Um wie viel Uhr findet die Führung statt?"
+  },
+  "duration": {
+    "type": "string",
+    "label": "Dauer",
+    "tip": "Wie lange dauert die Führung?"
+  },
+  "costs": {
+    "type": "string",
+    "label": "Kosten",
+    "tip": "Wie viel kostet die Führung?"
+  },
+  "participants": {
+    "type": "string",
+    "label": "Teilnehmeranzahl",
+    "tip": "Wie viel Personen können ander Führung teilnehmen?"
+  },
+  "language": {
+    "type": "string",
+    "label": "Sprache",
+    "tip": "In welchen Sprachen wird die Führung angeboten?"
+  },
+  "galleryName": {
+    "type": "string",
+    "label": "Galeriename",
+    "tip": "Name der Bildergalerie."
+  }
+}

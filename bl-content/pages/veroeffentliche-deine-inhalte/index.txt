@@ -1,0 +1,3 @@
+<p>Veröffentliche deine eigenen Inhalte oder passe die vorhandenen deinen Bedürfnissen an. Um Inhalte zu veröffentlichen, zu bearbeiten oder zu löschen, musst du dich im [Administrationsbereich](./admin) anmelden (mit dem Benutzernamen `admin` und dem Passwort, das Du bei der Installation eingegeben hast).</p>
+<p><!-- pagebreak --></p>
+<p>dasdasdasd ads sad ad a</p>
