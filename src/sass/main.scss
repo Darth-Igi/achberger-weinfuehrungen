@@ -32,6 +32,10 @@ a.sidenav-trigger,
 nav .brand-logo {
   text-decoration: none;
 
+  @media only screen and (max-width: 633px) {
+    font-size: 1.2rem;
+  }
+
   &:hover {
     text-decoration: none;
   }
@@ -90,6 +94,12 @@ p {
 @media only screen and (max-width: 600px) {
   #index-banner .section {
     top: 0;
+  }
+}
+
+@media only screen and (min-width: 993px) {
+  .container {
+    width: 85%;
   }
 }
 

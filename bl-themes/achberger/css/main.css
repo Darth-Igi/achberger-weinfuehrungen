@@ -7620,6 +7620,13 @@ a.sidenav-trigger,
 nav .brand-logo {
   text-decoration: none;
 }
+@media only screen and (max-width: 633px) {
+  nav ul a,
+  a.sidenav-trigger,
+  nav .brand-logo {
+    font-size: 1.2rem;
+  }
+}
 nav ul a:hover,
 a.sidenav-trigger:hover,
 nav .brand-logo:hover {
@@ -7678,6 +7685,11 @@ p {
 @media only screen and (max-width: 600px) {
   #index-banner .section {
     top: 0;
+  }
+}
+@media only screen and (min-width: 993px) {
+  .container {
+    width: 85%;
   }
 }
 .secondary-text {
