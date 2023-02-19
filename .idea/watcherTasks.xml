@@ -36,9 +36,9 @@
       <option name="outputFromStdout" value="false" />
       <option name="program" value="csso" />
       <option name="runOnExternalChanges" value="true" />
-      <option name="scopeName" value="Project Files" />
+      <option name="scopeName" value="Only main.css" />
       <option name="trackOnlyRoot" value="true" />
-      <option name="workingDir" value="$PROJECT_DIR$/bl-themes/achberger/css" />
+      <option name="workingDir" value="$FileDir$" />
       <envs />
     </TaskOptions>
   </component>
