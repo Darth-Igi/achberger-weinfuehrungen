@@ -51,7 +51,7 @@
 	<?php echo Theme::metaTagDescription(); ?>
 
 	<!-- Include Favicon -->
-	<?php echo Theme::favicon('img/favicon.png'); ?>
+	<?php echo Theme::favicon('img/favicon.ico'); ?>
 
 	<!-- Include CSS Styles from this theme -->
 	<?php echo Theme::css('css/main.css'); ?>
