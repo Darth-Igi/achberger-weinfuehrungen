@@ -1,5 +1,5 @@
 <?php
-$listOfFilesByPage = Filesystem::listFiles(PATH_UPLOADS_PAGES . $page->uuid() . "\\");
+$listOfFilesByPage = Filesystem::listFiles(PATH_UPLOADS_PAGES . $page->uuid() . "/");
 
 function extractFileName($path)
 {

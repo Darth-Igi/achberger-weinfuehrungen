@@ -7786,5 +7786,16 @@ img {
     height: 100%;
   }
 }
+.page-content > ul {
+  padding-left: 40px;
+}
+.page-content > ul > li {
+  list-style-type: square;
+}
+
+table.striped th {
+  padding-right: 12px;
+  text-align: right;
+}
 
 /*# sourceMappingURL=main.css.map */

@@ -1,1 +1,6 @@
 /node_modules/
+/bl-content/databases/
+/bl-content/pages/
+/bl-content/tmp/
+/bl-content/uploads/
+/bl-content/workspaces/

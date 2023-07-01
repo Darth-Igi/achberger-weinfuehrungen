@@ -89,8 +89,6 @@ function hideMediaAlert() {
 
 // Show the files in the table
 function displayFiles(files, numberOfPages = <?= $numberOfPages ?>) {
-  console.log('files', files);
-  console.log('numberOfPages', numberOfPages);
 	if (!Array.isArray(files)) {
 		return false;
 	}
@@ -137,7 +135,6 @@ function displayFiles(files, numberOfPages = <?= $numberOfPages ?>) {
 
 // Get the list of files via AJAX, filter by the page number
 function getFiles(pageNumber) {
-  console.log('pageNumber', pageNumber);
 	$.post(HTML_PATH_ADMIN_ROOT+"ajax/list-images",
 		{ 	tokenCSRF: tokenCSRF,
 			pageNumber: pageNumber,

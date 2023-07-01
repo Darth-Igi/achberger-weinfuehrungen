@@ -79,7 +79,7 @@ define('CHARSET', 'UTF-8');
 define('DIR_PERMISSIONS', 0755);
 
 // Admin URI filter to access to the admin panel
-define('ADMIN_URI_FILTER', 'wasd');
+define('ADMIN_URI_FILTER', 'admin');
 
 // Default language file, in this case is English
 define('DEFAULT_LANGUAGE_FILE', 'en.json');
